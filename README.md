@@ -12,7 +12,8 @@ Dope.
 
 ## How to install
 
-* Clone this repository
+* Make sure gpg installed locally.
+* Clone this repository.
 * `pip install -r requirements.txt`
 
 ## How to run Kimitsu
